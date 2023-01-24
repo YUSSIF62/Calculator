@@ -1,6 +1,6 @@
 #include <iostream>
 
-using namespace std;
+/*using namespace std;
 
 int main()
 {
@@ -9,3 +9,5 @@ int main()
     cout << "Welcome to repo";
     return 0;
 }
+*/
+cout << "Hello World";
